@@ -1,0 +1,95 @@
+.confirm__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    color: #67421aa1;
+}
+
+.confirm__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.form {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.confirm-table {
+    border: 1px solid #ddd;
+}
+
+.confirm-table__inner {
+    width: 100%;
+}
+
+.confirm-table__header {
+    padding: 15px;
+    width: 20%;
+    border-bottom: 1px solid #ddd;
+    background-color: #67421aa1;
+    color: #fff;
+    font-size: 12px;
+    font-family: 遊ゴシック体;
+}
+
+.confirm-table__text {
+    padding: 15px;
+    display: flex;
+    text-align: left;
+    font-family: 遊ゴシック体;
+    font-size: 14px;
+}
+
+.confirm-table__name {
+    width: 50px;
+}
+
+.confirm-table__text input {
+    outline: none;
+    border: none;
+    color: #67421aa1;
+}
+
+.confirm-table__tel{
+    width: 40px;
+    padding: 10px auto;
+}
+
+.hyphen{
+    padding: 5px auto;
+}
+
+.confirm-table_address{
+    width: 100%;
+}
+
+.confirm-table__row:last-child .confirm-table__header,
+.confirm-table__row:last-child .confirm-table__text {
+    border-bottom-width: 0;
+}
+
+.form__button {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 30%;
+    height: 50px;
+    border: none;
+    background: #67421aa1;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form__button-modify{
+    border: none;
+    background: none;
+    padding: 10px;
+    width: 80px;
+    height: 50px;
+    cursor: pointer;
+    color: #67421aa1;
+}

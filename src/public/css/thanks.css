@@ -1,0 +1,49 @@
+thanks.content{
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.background-view{
+    width: 100%;
+    text-align: center;
+}
+
+.background-message{
+    width: 100vw;
+    padding: 50% auto;
+    color: #67421a08;
+    font-family: Courier;
+    font-size: 18vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.thanks__heading{
+    width: 450px;
+    height: 40px;
+    font-size: 12px;
+    font-family: 遊ゴシック体;
+    color: #67421aa1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-button{
+    text-align: center;
+}
+
+button{
+    width:80px;
+    height: 40px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    background-color: #67421aa1;
+    color: #fff;
+    border: none;
+}

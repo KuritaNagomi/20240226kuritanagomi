@@ -1,0 +1,23 @@
+body{
+    color: #67421aa1;
+    font-family: YuMincho, 遊ゴシック体, sans-serif;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 1px #67421a48;
+    position: relative;
+}
+
+.header__logo {
+    color: #67421aa1;
+    text-decoration: none;
+    font-size: 36px;
+}
+
+
